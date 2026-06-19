@@ -1,0 +1,6 @@
+{
+  "name": "Creed of the Nile Landing Page",
+  "description": "An immersive, cinematic editorial landing page showcasing the mysteries of Ancient Egypt, featuring interactive Animus codex files, rich typographic layouts, and parallax visual assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
